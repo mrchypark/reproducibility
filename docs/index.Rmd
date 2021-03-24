@@ -63,6 +63,8 @@ class: split-50
 
 - .blue[**FACEBOOK**]@[mrchypark](https://www.facebook.com/mrchypark)
 - .gray[**GITHUB**]@[mrchypark](https://github.com/mrchypark)
+- .red[**BLOG**](https://mrchypark.github.io/
+)
 ]]
 
 ---
