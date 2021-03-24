@@ -1,0 +1,4 @@
+1616558369555:install.packages("xaringan")
+1616558372539:install.packages("xaringan")
+1616558390957:install.packages("fontawesome")
+1616558435889:xaringan:::inf_mr()
