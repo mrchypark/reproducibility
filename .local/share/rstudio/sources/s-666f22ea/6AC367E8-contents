@@ -14,6 +14,10 @@ html, body, h1, h2, h3, h4, h5, h6, li, p {font-family:'Spoqa Han Sans';}
   font-size: 130%;
 }
 
+.red {
+ color: #f92685;
+}
+
 .blue {
   color: #3b5998;
 }

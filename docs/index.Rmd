@@ -74,9 +74,16 @@ class: center, middle, title-slide
 
 ## .blue[재현성]
 
---
+---
+class: center, middle, title-slide
 
-## 으로 가치를 만든 사례는 무엇일까?
+## .blue[재현성]의 확보로 
+## .red[새로운 지식]을 생산하여 
+## 기업에 .yellow[가치]를 부여한다.
+
+---
+class: center, middle, title-slide
+## .blue[재현성]으로 가치를 만든 사례는 무엇일까?
 
 ---
 class: center, middle, title-slide
@@ -194,7 +201,7 @@ class: center, middle, title-slide
 ---
 class: center, middle, title-slide
 
-## 재현성 == 가치 창출!
+## 재현성 == 가치 창출
 
 ---
 class: center, middle, title-slide
@@ -293,9 +300,19 @@ class: center, middle, title-slide
 
 ## 모든 것은 트레이드 오프
 ![](https://user-images.githubusercontent.com/6179259/112264571-6ddaf480-8cb4-11eb-8f08-a22c1880bf2b.png)
+
 ---
 
 class: center, middle, title-slide
+
+## 재현성 확보 == 고정비 증가
+
+---
+class: center, middle, title-slide
+
+## 새로운 지식을 생산하는데 필요한 태도
+
+--
 
 ## 과학적 회의주의
 
@@ -303,7 +320,7 @@ class: center, middle, title-slide
 
 class: center, middle, title-slide
 
-## 모두 즐거운 재현성 확보 시간이 되길
+## 모두 즐거운 .blue[재현성] 확보 시간이 되길
 
 ---
 
